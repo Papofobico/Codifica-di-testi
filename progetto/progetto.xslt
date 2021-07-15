@@ -81,20 +81,20 @@
 
                         <div class="visible11" id="Interpretativa11">
                             <h2>
-                                <xsl:text>Edizione Diplomatica-Interpretativa</xsl:text>
+                                <xsl:text>Edizione Diplomatica</xsl:text>
                             </h2>
                             <p>
 
-                                <xsl:apply-templates mode="interpretativa_11" select="//div[@xml:id='div_pagina11']" />
+                                <xsl:apply-templates mode="diplomatica_11" select="//div[@xml:id='div_pagina11']" />
 
                             </p>
                         </div>
                         <div class="invisible" id="Dichiarativa11">
                             <h2>
-                                <xsl:text>Edizione Diplomatica della pagina 11</xsl:text>
+                                <xsl:text>Edizione Diplomatica-Interpretativa</xsl:text>
                             </h2>
                             <p>
-                                <xsl:apply-templates mode="diplomatica_11" select="//div[@xml:id='div_pagina11']" />
+                                <xsl:apply-templates mode="interpretativa_11" select="//div[@xml:id='div_pagina11']" />
                             </p>
 
                         </div>
