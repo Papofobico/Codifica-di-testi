@@ -1,0 +1,145 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: beige;
+}
+h1{
+    text-align: center;
+    margin-top: 2%;
+}
+.open{
+    display: ruby;
+}
+.cincipit{
+    text-align: center;
+    width: 40%;
+    margin-left: 3%;
+}
+.incipit{
+    font-size: 1.5em;
+}
+.cCodifica{
+    text-align: center;
+    width: 40%;
+    margin-left: 9%;
+    margin-bottom: 0%;
+}
+.codifica{
+    margin-bottom: -7%;
+    font-size:1.5em;
+}
+h2{
+    text-align: center;
+}
+
+.immagine10{
+    width: 60%;
+    height: auto;
+    border: 1px solid;
+    margin-left: 19%;
+    }
+
+
+.immagine11{
+    width: 40%;
+    cursor: hand;
+}
+p{
+    margin-bottom: 7%;
+}
+
+ #testoAFronte10{
+     display: flex;
+     margin-left: 1%;
+ }
+
+#testoAFronte11{
+    display: flex;
+    margin-left: 1%;
+}
+.bottone{
+    margin-left: 47%;
+width: 200px;
+height: 90px;
+background-color: brown;
+font-size: 1em;
+color: white;
+margin-top: 3%;
+margin-right: -30%;
+border-radius: 35px;
+}
+
+.bottoni{
+    display: flex;
+    margin-right:35%;
+}
+
+
+.visible10{
+    width: 700px;
+    bottom: 0%;
+    margin-top: 2%;
+    margin-left: auto;
+    border: 2px solid brown;
+    padding: 3%;
+    border-radius: 40px;
+    background: cornsilk;
+    font-size: 1.1em;
+    text-align: center;
+    margin-right: auto;
+}
+.invisible{
+    display: none;
+}
+
+.visible11{
+    width: 700px;
+bottom: 0%;
+margin-top: 26%;
+margin-left: 7%;
+border: 2px solid brown;
+padding: 3%;
+border-radius: 40px;
+background: cornsilk;
+font-size: 1.1em;
+}
+
+
+
+.primoParagrafo {
+    text-align: center;
+width: 800px;
+margin-left: auto;
+margin-right: auto;
+font-size: 1.1em;
+}
+.iniziale{
+        border: 3px solid;
+        background-color: beige;
+        width: max-content;
+        margin-left: auto;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 40px;
+        padding: 1%;
+        margin-top: 1%;
+}
+.semantica{
+    margin-bottom: 0%;
+}
+.glossario{
+    text-align: center;
+width: 75%;
+margin-left: auto;
+margin-right: auto;
+line-height: 100%;
+margin-bottom: 3%;
+background-color: beige;
+padding: 1%;
+border: 2px solid;
+border-radius: 20px;
+margin-top: 1%;
+}
+
+
+
